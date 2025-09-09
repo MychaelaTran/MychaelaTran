@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 <!--
 **MychaelaTran/MychaelaTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mychaelatran&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=mychaelatran&theme=radical)
+
+### 🌐 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mychaelatran&layout=compact&theme=radical)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/YOUR-LINK)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-green)](YOUR-SCHOLAR-LINK)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0210--0342-green)](YOUR-ORCID-LINK)
