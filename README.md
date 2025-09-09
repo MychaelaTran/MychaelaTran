@@ -15,4 +15,4 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mychaelatran)
-[![Personal Site](https://mychaelasportfolio.netlify.app/)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-Visit%20→-blue)](https://mychaelasportfolio.netlify.app/)
