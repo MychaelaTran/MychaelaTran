@@ -2,7 +2,7 @@
 
 - My name is Mychaela Tran and I am a third year Computer Science Student at McMaster University.
 - I am passionate about creating technology that has an impact in any way weather it's through a fun game or a tool to help children learn to code.
-- Fun Fact: I powerlift and bench 165!
+- Fun Fact: I powerlift and bench 182!
 
 
 ### 🔥 Streak Stats
